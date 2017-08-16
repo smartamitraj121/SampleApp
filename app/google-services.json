@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "637008004869",
+    "firebase_url": "https://myappdemo-2bc76.firebaseio.com",
+    "project_id": "myappdemo-2bc76",
+    "storage_bucket": "myappdemo-2bc76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637008004869:android:2ab0c842f8e79950",
+        "android_client_info": {
+          "package_name": "com.example.ctsmobilitykolkata.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637008004869-bbui761piu37smk80vglg3tlm4cmbvd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ctsmobilitykolkata.myapp",
+            "certificate_hash": "7d98ade918576746e27d804714860ebb9314b926"
+          }
+        },
+        {
+          "client_id": "637008004869-frsabstipd620f46a3euppq9qs02jeql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIcAg3tMNbD8g81xrzxkML_KUkJVjVkw0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637008004869-frsabstipd620f46a3euppq9qs02jeql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
